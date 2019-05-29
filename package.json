@@ -1,8 +1,7 @@
 {
-  "name": "counter",
+  "name": "react-example",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://counter.axiom/",
   "dependencies": {
     "axiom-api": "0.0.14",
     "react": "^16.8.6",
